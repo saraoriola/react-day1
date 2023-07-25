@@ -5,9 +5,9 @@ const App = () => {
   return (
     <div>
       <h1>Person Component Example</h1>
-      <PersonFuncional name="John" surname="Doe" age={30} />
-      <PersonClases name="Jane" surname="Smith" age={25} />
-      <PersonFuncional name="Michael" surname="Johnson" age={40} />
+      <PersonFunctional name="John" surname="Doe" age={30} />
+      <PersonClass name="Jane" surname="Smith" age={25} />
+      <PersonFunctional name="Michael" surname="Johnson" age={40} />
     </div>
   );
 };

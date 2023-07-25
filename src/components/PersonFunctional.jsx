@@ -1,6 +1,6 @@
-import React from 'react';
+import "./PersonFunctional";
 
-const PersonFuncional = (props) => {
+const PersonFunctional = (props) => {
   const { name, surname, age } = props;
 
   return (
@@ -12,4 +12,4 @@ const PersonFuncional = (props) => {
   );
 };
 
-export default PersonFuncional;
+export default PersonFunctional;
