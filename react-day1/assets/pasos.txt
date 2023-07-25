@@ -1,1 +1,7 @@
 1. ELIMINAMOS en (src/main.jsx) -> '</React.StrictMode>'
+
+2. CREAMOS en src una carpeta llamada 'components' (para poder organizar nuestros componentes en una ubicación específica)
+
+3. CREAMOS en (src/components) un archivo llamado 'PersonFuncional.jsx' (para el componente funcional 'Person')
+
+4.
